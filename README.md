@@ -45,7 +45,7 @@ If you're a recruiter or developer and want to know more, feel free to contact m
 
 | Home Page | Signin Section | Real-Time Chat |
 |-----------|--------------|----------------|
-| ![Home](images/homepage.jpg) | ![Post](images/signin.jpg) | ![Chat](images/chat.png) |
+| ![Home](images/homepage.jpg) | ![Post](images/signin.jpg) | ![Chat](images/chat.jpg) |
 
 ---
 
