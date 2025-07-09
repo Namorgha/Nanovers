@@ -43,9 +43,9 @@ If you're a recruiter or developer and want to know more, feel free to contact m
 
 ## 📸 Screenshots
 
-| Home Page | Post Section | Real-Time Chat |
+| Home Page | Signin Section | Real-Time Chat |
 |-----------|--------------|----------------|
-| ![Home](images/homepage.jpg) | ![Post](images/post.png) | ![Chat](images/chat.png) |
+| ![Home](images/homepage.jpg) | ![Post](images/signin.png) | ![Chat](images/chat.png) |
 
 ---
 
