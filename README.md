@@ -48,8 +48,3 @@ If you're a recruiter or developer and want to know more, feel free to contact m
 | ![Home](images/homepage.jpg) | ![Post](images/signin.jpg) | ![Chat](images/chat.jpg) |
 
 ---
-
-## 🧠 Architecture Diagram (Optional)
-
-If you want to go further, you can add a simple diagram made in draw.io or Excalidraw showing:
-
