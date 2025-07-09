@@ -36,7 +36,7 @@ For security and privacy, the source code is not publicly available.
 
 If you're a recruiter or developer and want to know more, feel free to contact me at:
 
-📧 namorgha.dev@gmail.com  
+📧 nassrelahamorgha514@gmail.com 
 🌐 [namorgha.github.io](https://namorgha.github.io)
 
 ---
